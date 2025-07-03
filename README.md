@@ -65,4 +65,4 @@ Where getFutureResult is the result of performing a task in the future,
 - A task can be a pointer to a class method. In this case, the first argument is the class from which the method will be called. The class itself is also considered an argument.
 
 ## Constraints
-The standart library except comtainers and smart pointers
+The standart library except containers and smart pointers
