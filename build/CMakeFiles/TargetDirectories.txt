@@ -1,0 +1,5 @@
+/home/vasilina/Документы/ITMO/C++/lab9/public version/build/CMakeFiles/edit_cache.dir
+/home/vasilina/Документы/ITMO/C++/lab9/public version/build/CMakeFiles/rebuild_cache.dir
+/home/vasilina/Документы/ITMO/C++/lab9/public version/build/bin/CMakeFiles/task_scheduler.dir
+/home/vasilina/Документы/ITMO/C++/lab9/public version/build/bin/CMakeFiles/edit_cache.dir
+/home/vasilina/Документы/ITMO/C++/lab9/public version/build/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/labwork9.dir/main.cpp.o -o labwork9
